@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_My_Leave_Request_Multiple_Day</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>607d2bf4-5fa0-4943-9009-2bcf659b3122</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Subordinate_Leave_Request_Single_Day</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef1cf609-9d82-4e7c-997c-1805f2702db7</testCaseGuid>
+</TestCaseEntity>

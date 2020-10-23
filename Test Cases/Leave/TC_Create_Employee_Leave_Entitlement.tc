@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Employee_Leave_Entitlement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3d613be-3092-4a93-b403-68595a84c2c9</testCaseGuid>
+</TestCaseEntity>

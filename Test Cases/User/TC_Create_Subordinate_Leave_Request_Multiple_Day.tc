@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Subordinate_Leave_Request_Multiple_Day</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfd980bc-5c5d-4744-8a0f-def62b85c012</testCaseGuid>
+</TestCaseEntity>
